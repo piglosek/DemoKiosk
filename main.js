@@ -4,7 +4,7 @@ function setup() {
   Alpine.store('model', {
     currentPage: 'home', // 'home', 'service'
     currentLanguage: 'polish',
-    dialNumber: 'piglosek@cisco.com',
+    dialNumber: 'rtbc_eq@davijennbootcampint-1xbd.rooms.webex.com',
     services: [],
 
     init() {
