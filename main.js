@@ -4,9 +4,9 @@ function setup() {
   Alpine.store('model', {
     currentPage: 'home', // 'home', 'service'
     currentLanguage: 'polish',
-    dialNumber1: 'wbogucki@cisco.com',
-    dialNumber2: 'aszymane@cisco.com',
-    dialNumber3: 'piglosek@cisco.com',
+    dialNumber1: 'sip:piglosek@cisco.com',
+    dialNumber2: 'sip:piglosek.cisco@webex.com',
+    dialNumber3: 'tel:1112',
     services: [],
 
     init() {
