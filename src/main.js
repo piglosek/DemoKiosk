@@ -4,8 +4,8 @@ function setup() {
   Alpine.store('model', {
     currentPage: 'home', // 'home', 'service'
     currentLanguage: 'polish',
-    dialNumber1: 'rtbc@davijennbootcampint-1xbd.rooms.webex.com',
-    dialNumber2: 'piglosek.cisco@webex.com',
+    dialNumber1: 'piglosek.cisco@webex.com',
+    dialNumber2: 'rtbc@davijennbootcampint-1xbd.rooms.webex.com',
     dialNumber3: '1112',
     services: [],
 
@@ -15,9 +15,9 @@ function setup() {
         this.dialNumber = params.get('number');
       }
       this.services = [
-        { url: this.dialNumber1, name: 'Kredyt' },
-        { url: this.dialNumber2, name: 'Pożyczka' },
-        { url: this.dialNumber3, name: 'Pomoc' },
+        { url: this.dialNumber1, name: 'Zespół Doradczy' },
+        { url: this.dialNumber2, name: 'Private Banking' },
+        { url: this.dialNumber3, name: 'Konsultacja Kredytowa' },
       ];
     },
     get page() {
