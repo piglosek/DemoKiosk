@@ -95,8 +95,8 @@ button {
 .avatar {
   border: 1px solid white;
   border-radius: 50%;
-  height: 200px;
-  width: 200px;
+  height: 250px;
+  width: 250px;
   margin: 1em 0;
   background-position: center center;
   background-size: cover;
