@@ -1,4 +1,4 @@
-* {
+g* {
   box-sizing: border-box;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
@@ -102,9 +102,9 @@ button {
   background-size: cover;
 }
 
-.Kredyt .avatar { background-image: url('./images/wbogucki.png'); }
-.Pożyczka .avatar { background-image: url('./images/aszymane.png'); }
-.Pomoc .avatar { background-image: url('./images/piglosek.png'); }
+.Kredyt .avatar { background-image: url('./images/meeting.jpg'); }
+.Pożyczka .avatar { background-image: url('./images/advisor.jpg'); }
+.Pomoc .avatar { background-image: url('./images/agent.jpg'); }
 
 .back {
   position: absolute;
