@@ -5,7 +5,7 @@ function setup() {
     currentPage: 'home', // 'home', 'service'
     currentLanguage: 'polish',
     dialNumber1: 'piglosek.cisco@webex.com',
-    dialNumber2: 'rtbc@davijennbootcampint-1xbd.rooms.webex.com',
+    dialNumber2: 'wbogucki@cisco.com',
     dialNumber3: '1112',
     services: [],
 
