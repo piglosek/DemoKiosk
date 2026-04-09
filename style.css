@@ -102,9 +102,9 @@ button {
   background-size: cover;
 }
 
-.Zespół Doradczy .avatar { background-image: url('../images/meeting.jpg'); }
-.Private Banking .avatar { background-image: url('../images/advisor.jpg'); }
-.Konsultacja Kredytowa .avatar { background-image: url('../images/agent.jpg'); }
+.Spotkanie .avatar { background-image: url('../images/meeting.jpg'); }
+.Doradca .avatar { background-image: url('../images/advisor.jpg'); }
+.Konsultant .avatar { background-image: url('../images/agent.jpg'); }
 
 .back {
   position: absolute;
