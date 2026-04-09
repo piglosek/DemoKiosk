@@ -15,9 +15,9 @@ function setup() {
         this.dialNumber = params.get('number');
       }
       this.services = [
-        { url: this.dialNumber1, name: 'Zespół Doradczy' },
-        { url: this.dialNumber2, name: 'Private Banking' },
-        { url: this.dialNumber3, name: 'Konsultacja Kredytowa' },
+        { url: this.dialNumber1, name: 'Spotkanie' },
+        { url: this.dialNumber2, name: 'Doradca' },
+        { url: this.dialNumber3, name: 'Konsultant' },
       ];
     },
     get page() {
